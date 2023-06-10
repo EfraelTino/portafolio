@@ -1,0 +1,50 @@
+
+
+
+/* Awesome Modal CSS */
+.awesome-modal {
+  display: none;
+  background: rgba(213, 182, 215, .6);
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  overflow: auto;
+  z-index: 999;
+  -webkit-backdrop-filter: blur(7px);
+    backdrop-filter: blur(7px);
+
+  justify-content: flex-end;
+  align-items: center;
+
+  animation: modal .4s ease forwards;
+}
+.awesome-modal * {
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+
+@keyframes modal{
+  0% {opacity: 0}
+  100% {opacity: 1}
+}
+
+
+:target {
+  display: flex;
+}
+:target ~ .awesome-overlay {
+  display: flex;
+}
+
+
+
+
+
+
+
+
+
+

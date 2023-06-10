@@ -1,0 +1,74 @@
+:root {
+    --color-white: #ffffff;
+    --color-black:#000000;
+    --transition150: all 150ms;
+    --transition300: all 300ms;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+    color: var(--color-black);
+}
+
+body {
+    margin: 0;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 1.2;
+    background-color: var(--color-white);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* backdrop-filter: blur(30px); */
+}
+.body-login{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+}
+.login-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-container div form{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.login-container div form input, .login-container div form button{
+    margin: 10px;
+}
+.login-container div form button{
+    background-color: var(--color-white);
+    color: var(--color-black);
+    border: 2px solid var(--color-black);
+}
+
+/* MENU */
+.lista-menu{
+    padding: 0px  20px;
+}
+.lista-menu li{
+list-style: none;
+margin: 10px 0;
+}
+
+.modalproyecto{
+    position: fixed;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, .5);
+
+}
