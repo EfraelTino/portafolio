@@ -1,12 +1,12 @@
 <!-- Favicones -->
-<link href="https://dominio.com/favicon/favicon32.png" rel="shortcut icon" type="image/x-icon">
-<link rel="icon" href="https://dominio.com/favicon/favicon32.png" type="image/x-icon">
-<link rel="shortcut icon" href="https://dominio.com/favicon/favicon32.png" type="image/x-icon">
-<link rel="apple-touch-icon" sizes="57x57" href="https://dominio.com/favicon/favicon57.png">
-<link rel="apple-touch-icon" sizes="72x72" href="https://dominio.com/favicon/favicon72.png">
-<link rel="apple-touch-icon" sizes="114x114" href="https://dominio.com/favicon/favicon114.png">
-<link rel="apple-touch-icon" sizes="144x144" href="https://dominio.com/favicon/favicon144.png">
-<link rel="apple-touch-icon" sizes="320x320" href="https://dominio.com/favicon/favicon320.png">
+<link href="https://www.desarrolloweb-vi.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="icon" href="https://www.desarrolloweb-vi.com/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="https://www.desarrolloweb-vi.com/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" sizes="57x57" href="https://www.desarrolloweb-vi.com/favicon.ico">
+<link rel="apple-touch-icon" sizes="72x72" href="https://www.desarrolloweb-vi.com/favicon.ico">
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.desarrolloweb-vi.com/favicon.ico">
+<link rel="apple-touch-icon" sizes="144x144" href="https://www.desarrolloweb-vi.com/favicon.ico">
+<link rel="apple-touch-icon" sizes="320x320" href="https://www.desarrolloweb-vi.com/favicon.ico">
 
 <!-- RESPONSIVE! ADAPTACIÓN DEL VIEWPORT & más -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -39,6 +39,6 @@
 
 
 <!-- META GOOGLE -->
-<meta name="description" content="google description">
+<meta name="description" content="Efrael villanueva, desarrollador full stack, trabajo con el lenguaje de programación PHP, JavaScript,Mysql, soy una persona proactiva al que le gusta trabajar en equipo, siempre abierto a nuevas propuestas capáz de adaptarse a cualquier entorno laboral">
 
-<meta name="keywords" content="Plástico, congreso de reciclaje, expoplast, packperu, reciclaje, residuos, congreso">
+<meta name="keywords" content="Efrael villanueva,  desarrollador, programador, php, mysql, html, css, maquetador">

@@ -38,9 +38,7 @@ require_once "./admin/logic/conexion.php";
                         <div>
                             <div class="tit-header title-dato">desarrollador web</div>
                             <div class="nombres">
-                                <span class="letra-e letra1"></span>
-                                <span class="letra-e letra2">E</span><span class="letra-e letra3">E</span>frael <br>
-                                <span class="letra-v letra4"></span><span class="letra-v letra5">V</span><span class="letra-v letra6">V</span>illanueva
+                                <img src="images/logo_efrael.svg" alt="">
                             </div>
                             <div class="container-documentos">
                                 <a href="files/Efrael_villanueva_cv.pdf" download="files/Efrael_villanueva_cv.pdf"> <span class="icon-download"></span> Descargar CV </a>
@@ -199,6 +197,7 @@ require_once "./admin/logic/conexion.php";
                             <?php } ?>
                         </div>
                         <div class="derecha recuerda">
+                            <div class="nombres"><img src="images/logo_efrael.svg" alt=""></div>
                             <h1>
                                 Recuerda que, si lo <strong>crees</strong> lo <strong>creas</strong>
                             </h1>
